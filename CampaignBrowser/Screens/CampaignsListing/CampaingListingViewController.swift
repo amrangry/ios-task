@@ -1,6 +1,5 @@
 import UIKit
 import RxSwift
-import SCLAlertView
 
 /**
  The view controller responsible for listing all the campaigns. The corresponding view is the `CampaignListingView` and
