@@ -3,17 +3,20 @@ PODS:
   - RxCocoa (3.6.1):
     - RxSwift (~> 3.6)
   - RxSwift (3.6.1)
+  - SCLAlertView (0.7.0)
 
 DEPENDENCIES:
   - MapleBacon (= 3.1.0)
   - RxCocoa (= 3.6.1)
   - RxSwift (= 3.6.1)
+  - SCLAlertView
 
 SPEC CHECKSUMS:
   MapleBacon: 03b7a3d61409f8ae286ead261590e4a650754b09
   RxCocoa: 84a08739ab186248c7f31ce4ee92d6f8a947d690
   RxSwift: f9de85ea20cd2f7716ee5409fc13523dc638e4e4
+  SCLAlertView: 8a14ffc40590c619e183eed2298b854385f30be1
 
-PODFILE CHECKSUM: 1716aa7acf9f42a8fe9a4ed8c81be895c1236360
+PODFILE CHECKSUM: 5d0c49ea4dc116bb10e67fb82db13538f8c35873
 
 COCOAPODS: 1.3.1
